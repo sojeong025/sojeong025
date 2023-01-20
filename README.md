@@ -26,10 +26,10 @@
 
 
 
-<div align="center">💁🏻ᩚSNS list </div>
+<div align="center">💁🏻 SNS list </div>
 
-<a href="https://instagram.com/s_o_ing">  <img 
-src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/s_o_ing/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+<div align="center"><a href="https://instagram.com/s_o_ing">  <img 
+src="http://img.shields.io/badge/-Instagram-#E4405F?style=flat&logo=Instagram&link=https://instagram.com/s_o_ing/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a></div>
 
 
 
