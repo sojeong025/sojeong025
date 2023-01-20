@@ -33,9 +33,9 @@
 <div align="center"><a href="https://instagram.com/s_o_ing">  <img 
 src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/s_o_ing/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a></div>       
 
+   
 
-
-
+   
 
 <p align="center">
 <a href="https://github.com/sojeong025/">
