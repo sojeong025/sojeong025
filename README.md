@@ -1,3 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+![header](https://capsule-render.vercel.app/api?color=auto)
+```
+
+
+<picture>
+<p align="center">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=sojeong025&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sojeong025&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="180em" img src="https://github-readme-stats.vercel.app/api?username=sojeong025&show_icons=true" />
+</picture>
+
+
+
+ 
+
+
+
 ### Hi there 👋
 
 <!--
