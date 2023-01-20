@@ -18,9 +18,13 @@
 
 
 
-hi
+```markdown
+<div align="center">
+  Hello I'm SOJEONG 👋
+</div>
+```
 
-
+<hr>
 
 <p align="center">
 <a href="https://github.com/sojeong025/">
