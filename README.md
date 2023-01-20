@@ -24,7 +24,7 @@
 
 <div align="center">현재 SSAFY 9기 과정을 통해 파이썬을 배우고 있습니다 </div>  
 
-   
+   <br/>
 
    
 
@@ -35,7 +35,7 @@ src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&log
 
    
 
-   
+   <br/>
 
 <p align="center">
 <a href="https://github.com/sojeong025/">
