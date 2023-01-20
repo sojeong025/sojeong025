@@ -18,20 +18,20 @@
 
 <div align=center> <h1> Hello I'm SOJEONG 👋 </h1> </div>
 
-<hr>
-
 <div align="center"> 안녕하세요 저는 코린입니다! </div>
 
-<div align="center">현재 SSAFY 9기 과정을 통해 파이썬을 배우고 있습니다 </div>
+<div align="center">현재 SSAFY 9기 과정을 통해 파이썬을 배우고 있습니다 </div>  
 
-
+  
 
 <div align="center">💁🏻 SNS list </div>
 
 <div align="center"><a href="https://instagram.com/s_o_ing">  <img 
-src="http://img.shields.io/badge/-Instagram-#E4405F?style=flat&logo=Instagram&link=https://instagram.com/s_o_ing/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a></div>
+src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/s_o_ing/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a></div>
 
 
+
+<hr>
 
 
 
