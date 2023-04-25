@@ -15,7 +15,10 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> 
   <br>
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=Vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=SQlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=Qgis&logoColor=white"/> 
+
   
 </div>
 <br/>
