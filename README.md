@@ -41,6 +41,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sojeong025&show_icons=true&default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+<br/>
+<br/>
+[![Solved.ac
+wjdwjd5252](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
