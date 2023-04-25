@@ -8,16 +8,19 @@
 <div align="center">
   <h3><b> 📚 Tech Stack 📚 <b></h3>
   <p> 🤍 platforms & Languages🤍 </p>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> 
   <br>
-  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=Vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=SQlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=Qgis&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vuedotjs-4FC08D?style=flat&logo=Vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQlite-003B57?style=flat&logo=SQlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
+
+    
 
   
 </div>
