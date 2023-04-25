@@ -8,8 +8,14 @@
 <br/>
 
 <div align="center">
-  <p><b> 📚 Tech Stack 📚 <b></p>
+  <h3><b> 📚 Tech Stack 📚 <b></h3>
   <p> 🤍 platforms & Languages🤍 </p>
+  <img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-##1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
+</div>
+    
 
 <div align="center">
   <p>💁🏻 SNS list </p>
