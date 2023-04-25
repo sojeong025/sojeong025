@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/SQlite-003B57?style=flat&logo=SQlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
-
-    
-
-  
+  <br>
+  <p> 🤍 STUDY 🤍 </p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+   
 </div>
 <br/>
 
@@ -35,8 +35,6 @@
 
 <br/>
 <br/>
-![Sojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeong025&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwjd5252)](https://solved.ac/wjdwjd5252/)
 <p align="center">
 <a href="https://github.com/sojeong025/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sojeong025&show_icons=true&default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
