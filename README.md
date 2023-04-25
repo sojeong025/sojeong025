@@ -44,7 +44,7 @@
 <br/>
 <br/>
 <p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdwjd5252)](https://solved.ac/wjdwjd5252)</p><br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sojeong025)](https://solved.ac/sojeong025)</p><br/>
 
 <!--
 **sojeong025/sojeong025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
