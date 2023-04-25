@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
   <br>
   <br>
-  <p> 👩🏻‍🎓✍🏻STUDY  </p>
+  <p> ✍🏻 study ✍🏻  </p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
    
 </div>
