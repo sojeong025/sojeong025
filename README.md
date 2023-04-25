@@ -5,18 +5,20 @@
 </div>
 
 <br/>
-
 <br/>
 
-<div align="center">💁🏻 SNS list </div>
+<div align="center">
+  <p><b> 📚 Tech Stack 📚 <b></p>
+  <p> 🤍 platforms & Languages🤍 </p>
 
 <div align="center">
+  <p>💁🏻 SNS list </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsojeong025%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
 <a href="https://rec-0f-jeong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> 
 <a href="https://instagram.com/s_o_ing">  <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/s_o_ing/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a></div>
+</div>
 
 <br/>
-
 <br/>
 
 <p align="center">
