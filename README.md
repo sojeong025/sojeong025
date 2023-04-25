@@ -35,7 +35,8 @@
 
 <br/>
 <br/>
-
+![Sojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeong025&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwjd5252)](https://solved.ac/wjdwjd5252/)
 <p align="center">
 <a href="https://github.com/sojeong025/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sojeong025&show_icons=true&default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
@@ -43,9 +44,9 @@
 </p>
 <br/>
 <br/>
-<p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdwjd5252)](https://solved.ac/wjdwjd5252)</p><br/>
 
+  
+  
 <!--
 **sojeong025/sojeong025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
