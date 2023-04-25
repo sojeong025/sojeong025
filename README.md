@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
   <h3><b> 📚 Tech Stack 📚 <b></h3>
-  <p> 🤍 platforms & Languages🤍 </p>
+  <p> 👩🏻‍💻 platforms & Languages 👩🏻‍💻 </p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -20,12 +20,13 @@
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
   <br>
-  <p> 🤍 STUDY 🤍 </p>
+  <br>
+  <p> 👩🏻‍🎓✍🏻STUDY  </p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
    
 </div>
-<br/>
-
+<br>
+<br>
 <div align="center">
   <p>💁🏻 SNS list </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsojeong025%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
