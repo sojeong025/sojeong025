@@ -43,8 +43,7 @@
 </p>
 <br/>
 <br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwjd5252)](https://solved.ac/wjdwjd5252)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwjd5252)](https://solved.ac/wjdwjd5252)
 
   
   
