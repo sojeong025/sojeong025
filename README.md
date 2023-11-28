@@ -17,13 +17,14 @@
   <img src="https://img.shields.io/badge/SQlite-003B57?style=flat&logo=SQlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+   
   <br>
   <br>
   <p> ✍🏻 study ✍🏻  </p>
  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-   
+
 </div>
 <br>
 <br>
