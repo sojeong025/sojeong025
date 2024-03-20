@@ -1,5 +1,5 @@
-<div align=center> 
-<h1> Hello I'm SOJEONG 👋 </h1>
+<div align= "center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fbc2eb,100:a6c1ee&height=120&text=Hi%20there,%20I'm%20SO%20JEONG&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 
 <br/>
@@ -11,19 +11,28 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> 
-  <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vuedotjs-4FC08D?style=flat&logo=Vuedotjs&logoColor=white"/>
+          <br>
   <img src="https://img.shields.io/badge/SQlite-003B57?style=flat&logo=SQlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+    
    
   <br>
   <br>
   <p> ✍🏻 study ✍🏻  </p>
- 
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
+    
 
 </div>
 <br>
